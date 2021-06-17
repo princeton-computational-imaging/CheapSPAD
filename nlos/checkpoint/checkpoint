@@ -1,0 +1,2 @@
+model_checkpoint_path: "nomirror_small_histshift_distance"
+all_model_checkpoint_paths: "nomirror_small_histshift_distance"
